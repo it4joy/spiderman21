@@ -1,7 +1,7 @@
 Верхолаз21
 ==========
 
-This site based on free template
+This Landing Page based on free template
 -------------------------------------
 
 ### Functionality
