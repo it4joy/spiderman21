@@ -3,8 +3,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация">
-    <meta name="keywords" content="">
-    <title>Верхолаз 21 - высотные работы и промышленный альпинизм</title>
+    <meta name="keywords" content="верхолаз21, верхолаз 21, верхолаз21 высотные работы, верхолаз21 промальпинизм, компания верхолаз21, чебоксары, новочебоксарск, кугеси, чувашская республика, чувашия, чр, российская федерация, россия, рф, москва, мск, петербург, санкт-петербург, спб, подмосковье, высотные работы, высота работа, работа фасадный, ремонт фасад, альпинист промышленный, межпанельный шов, герметизация шов, крыша снег уборка, пояс страховочный, альпинист работа, промальпинизм, высотный работа, верхолазный работа, герметизация межпанельный шов, межпанельный ремонт шов, альпинист услуга, покрасочные работы, малярный работа, окраска фасад, утепление фасад, покраска стена, стекломой, мытье фасад, мойка фасад, электромонтажные работы, расценка электромонтажный, организация электромонтажный, работа электромонтажный, монтаж электропроводка, вентилируемый фасад, монтаж фасад, вентилировать фасад, панель фасадный, вентилировать фасад цена, монтаж баннеров, баннер установка, монтаж реклама, баннер монтаж">
+	
+	<meta name="yandex-verification" content="77d30c96f8c58c5a" />
+	
+    <title>Верхолаз21 - высотные работы и промышленный альпинизм</title>
     <!--pageMeta-->
     <!-- Loading Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -83,7 +86,7 @@
 		<!-- NAVIGATION -->
 		<nav class="navbar bg-color1 dark-bg navbar-fixed-top">
 			<div class="container"> 
-				<a class="navbar-brand goto" href="#">ВЕРХОЛАЗ 21</a>
+				<a class="navbar-brand goto" href="#">ВЕРХОЛАЗ<sup>21</sup></a>
 				<button class="round-toggle navbar-toggle menu-collapse-btn collapsed" data-toggle="collapse" data-target=".navMenuCollapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 				<div class="collapse navbar-collapse navMenuCollapse">
 					<ul class="nav">
@@ -97,7 +100,7 @@
 				</div>
 			</div>
 		</nav><!-- INTRO LEFT 2 BLOCK -->
-	<header id="intro-left-2" class="intro-block bg-color1 dark-bg fixed-bg" style="background-image: url(&quot;images/bg31.jpg&quot;);">
+	<header id="intro-left-2" class="intro-block bg-color1 dark-bg fixed-bg" style="background-image: url(images/bg31.jpg);">
 		<div class="container">
 			<div class="slogan" style="">
 			    <h2 class="giant-title"><strong>ВЫСОТНЫЕ РАБОТЫ<br>
@@ -230,9 +233,11 @@
 		<section id="text-1col">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-12 editContent" style=""><h2>КОМАНДА</h2>
-<h4 class="sub-title" style="color: rgb(102, 102, 102); font-size: 20px; background-color: transparent; margin-bottom: 60px; margin-top: 0px;">Надежные профессионалы</h4>
-Компания Верхолаз 21 успешно решает задачи своих клиентов в области высотных работ и промышленного альпинизма уже 15 лет. Наша сплоченная команда состоит из высококвалифицированных профессионалов своего дела, которые способны провести любые виды высотных работ. Клиенты ценят нас за гарантированное качество, соблюдение технологий и выдерживание сроков.</div>
+					<div class="col-md-12 editContent" style="">
+						<h2>КОМАНДА</h2>
+						<h4 class="sub-title" style="color: rgb(102, 102, 102); font-size: 20px; background-color: transparent; margin-bottom: 60px; margin-top: 0px;">Надежные профессионалы</h4>
+						Компания Верхолаз21 успешно решает задачи своих клиентов в области высотных работ и промышленного альпинизма уже 15 лет. Наша сплоченная команда состоит из высококвалифицированных профессионалов своего дела, которые способны провести любые виды высотных работ. Клиенты ценят нас за гарантированное качество, соблюдение технологий и выдерживание сроков.
+					</div>
 				</div>
 			</div>
 		</section><!-- TEAM 4COL BLOCK -->
@@ -339,7 +344,7 @@
 					</div>
 					<div class="col-md-6 col-md-pull-6">
 						<img class="logo" src="images/footer-logo.png" alt="">
-						<span class="editContent" style="">&copy; 2017 Верхолаз 21 | Высотные работы и промышленный альпинизм. Все права защищены.</span>
+						<span class="editContent" style="">&copy; 2017 Верхолаз21 | Высотные работы и промышленный альпинизм. Все права защищены.</span>
 					</div>
 				</div>
 			</div>
@@ -387,4 +392,34 @@
 	<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
 	<script src="//yastatic.net/share2/share.js"></script>
     <script src="scripts/custom.js"></script>
+	
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript">
+		(function (d, w, c) {
+			(w[c] = w[c] || []).push(function() {
+				try {
+					w.yaCounter44890168 = new Ya.Metrika({
+						id:44890168,
+						clickmap:true,
+						trackLinks:true,
+						accurateTrackBounce:true,
+						webvisor:true
+					});
+				} catch(e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+				s = d.createElement("script"),
+				f = function () { n.parentNode.insertBefore(s, n); };
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+			if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else { f(); }
+		})(document, window, "yandex_metrika_callbacks");
+	</script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/44890168" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
 </body></html>
