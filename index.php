@@ -248,34 +248,34 @@
 					<div class="col-sm-12">
 						<ul class="portfolio-list">
 							<li>
-								<a href="content/1.jpg"><img src="content/1.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
+								<a href="images/content/1.jpg"><img src="images/content/1.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
 							</li>
 							<li>
-								<a href="content/2.jpg"><img src="content/2.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
+								<a href="images/content/2.jpg"><img src="images/content/2.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
 							</li>
 							<li>
-								<a href="content/3.jpg"><img src="content/3.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
+								<a href="images/content/3.jpg"><img src="images/content/3.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
 							</li>
 							<li>
-								<a href="content/4.jpg"><img src="content/4.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
+								<a href="images/content/4.jpg"><img src="images/content/4.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
 							</li>
 							<li>
-								<a href="content/5.jpg"><img src="content/5.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
+								<a href="images/content/5.jpg"><img src="images/content/5.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
 							</li>
 							<li>
-								<a href="content/6.jpg"><img src="content/6.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
+								<a href="images/content/6.jpg"><img src="images/content/6.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
 							</li>
 							<li>
-								<a href="content/7.jpg"><img src="content/7.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
+								<a href="images/content/7.jpg"><img src="images/content/7.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
 							</li>
 							<li>
-								<a href="content/8.jpg"><img src="content/8.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
+								<a href="images/content/8.jpg"><img src="images/content/8.jpg" class="screen" alt="Верхолаз 21 - высотные работы и промышленный альпинизм, 15 лет опыта, высокая квалификация"></a>
 							</li>
 							<li>
-								<a href="content/9.jpg" class="display-none"></a>
+								<a href="images/content/9.jpg" class="display-none"></a>
 							</li>
 							<li>
-								<a href="content/10.jpg" class="display-none"></a>
+								<a href="images/content/10.jpg" class="display-none"></a>
 							</li>
 						</ul>
 					</div>
